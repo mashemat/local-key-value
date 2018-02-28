@@ -1,0 +1,1 @@
+killall redis_client
