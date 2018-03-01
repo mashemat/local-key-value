@@ -9,7 +9,7 @@ Experimental analysis of state-of-the-art RDMA-based in-memory key-value stores.
 - Redis 3.2.9
 - gcc version 4.4.7
 ##  Run scripts
-###### RDMA-based system
+###### RDMA-based systems
 All RDMA-based systems contain two scripts `./run-servers.sh` and `./run-machine.sh`. Server shoud run 
 `./run-servers.sh` and client runs `./run-machine.sh`. In the `./run-machine.sh`, *num_processes* specifies the number of client machines.
 ###### Redis
