@@ -23,5 +23,5 @@ All RDMA-based systems contain two scripts `./run-servers.sh` and `./run-machine
 - You need to download (http://memcached.org), compile, and run Memcached  
 - find out the InfiniBand IP address (*server_ip_address*) of server and initial the server keys by running  `./run-initial.sh   server_ip_address` from client
 - Run the script by `./run-client.sh  server_ip_address number_of_clients`
-## Contact
+## Contact :e-mail:
 Masoud Hemmatpour (mashemat@gmail.com).
