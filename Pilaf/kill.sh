@@ -1,0 +1,2 @@
+killall main
+killall memcached

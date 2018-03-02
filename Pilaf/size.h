@@ -1,0 +1,4 @@
+#define PILAF_ITEM_SIZE  32    //48
+#define NUM_SERVERS 1
+#define NUM_CLIENTS 32
+#define NUM_CLIENTS_PER_SERVER 32
